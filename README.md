@@ -34,4 +34,4 @@ If you want to run this project locally on your machine, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone git clone https://github.com/KaranDevda/simon-says-game.git
+   git clone https://github.com/KaranDevda/simon-says-game.git
